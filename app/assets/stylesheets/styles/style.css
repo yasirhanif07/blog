@@ -225,7 +225,7 @@ button {
 .header_section{
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(banner-bg.png);
     height: auto;
     background-size: 100%;
 }
@@ -425,35 +425,35 @@ button {
     width: 21%;
     margin: 0 auto;
     text-align: center;
-    background-image: url(../images/internet-icon.png);
+    background-image: url(internet-icon.png);
     height: 75px;
     background-repeat: no-repeat;
 }
 .box_main:hover .internet_icon{
-    background-image: url(../images/internet-icon1.png);
+    background-image: url(internet-icon1.png);
 }
 
 .internet_icon1 {
     width: 25%;
     margin: 0 auto;
     text-align: center;
-    background-image: url(../images/television-icon1.png);
+    background-image: url(television-icon1.png);
     height: 75px;
     background-repeat: no-repeat;
 }
 .box_main:hover .internet_icon1{
-    background-image: url(../images/television-icon1.png);
+    background-image: url(television-icon1.png);
 }
 .internet_icon2 {
     width: 21%;
     margin: 0 auto;
     text-align: center;
-    background-image: url(../images/mobile-icon.png);
+    background-image: url(mobile-icon.png);
     height: 75px;
     background-repeat: no-repeat;
 }
 .box_main:hover .internet_icon2{
-    background-image: url(../images/mobile-icon1.png);
+    background-image: url(mobile-icon1.png);
 }
 
 .broadband_text{
@@ -484,12 +484,12 @@ button {
 }
 .about_section{
     width: 100%;
-    float: left; 
-    background-image: url(../images/about-bg.png);
+    float: left;
+    background-image: url(about-bg.png);
     height: auto;
     background-repeat: no-repeat;
-    background-size: cover; 
-    padding-bottom: 60px;  
+    background-size: cover;
+    padding-bottom: 60px;
 }
 
 .image_2{
@@ -574,7 +574,7 @@ button {
 .product_section {
     width: 100%;
     float: left;
-    background-image: url(../images/product-bg.png);
+    background-image: url(product-bg.png);
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
@@ -698,7 +698,7 @@ button {
 .contact_section2 {
     width: 100%;
     float: left;
-    background-image: url(../images/map-bg.png);
+    background-image: url(map-bg.png);
     height: auto;
     background-size: 100%;
     border-bottom: 1px solid #000;
@@ -707,7 +707,7 @@ button {
 .addres_main {
     width: 100%;
     float: left;
-    background-image: url(../images/input-bg.png);
+    background-image: url(input-bg.png);
     height: 448px;
     background-size: 100%;
     margin-top: 80px;
